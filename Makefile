@@ -1,4 +1,4 @@
-MODULES=main
+MODULES=main command cryptography
 OBJECTS=$(MODULES:=.cmo)
 MLS=$(MODULES:=.ml)
 MLIS=$(MODULES:=.mli)
